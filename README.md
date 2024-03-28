@@ -33,5 +33,5 @@
 </div>
 
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ydelyn&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ydelyn&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ydelyn&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ydelyn&theme=transparent)
