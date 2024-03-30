@@ -3,6 +3,9 @@
     <img src="https://img.shields.io/badge/My%20Website-884ac2?style=for-the-badge" alt="Website Badge"/>
   </a>
 </div>
+
+---
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lorris-colini/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
