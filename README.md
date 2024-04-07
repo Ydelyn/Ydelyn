@@ -31,7 +31,7 @@
   <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/></a>&nbsp;
   <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/></a>&nbsp;
   <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/></a>&nbsp;
-  <a href="https://wiki.archlinux.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Archlinux"  alt="Archlinux" width="40" height="40"/></a>&nbsp;
+<!--   <a href="https://wiki.archlinux.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Archlinux"  alt="Archlinux" width="40" height="40"/></a>&nbsp; -->
   <a href="https://git-scm.com/doc" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/></a>&nbsp;
   <a href="https://docs.github.com/en/get-started" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/></a>&nbsp;
   <a href="https://docs.gitlab.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/></a>&nbsp;
