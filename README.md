@@ -1,6 +1,6 @@
 <div id="website" align="center">
   <a href="https://www.lycdev.tech" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Website-884ac2?style=for-the-badge" alt="Website Badge"/>
+    <img src="https://img.shields.io/badge/My%20Portfolio-884ac2?style=for-the-badge" alt="Website Badge"/>
   </a>
 </div>
 
